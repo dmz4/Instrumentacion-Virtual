@@ -1,4 +1,4 @@
-# Practica_1-2_IV
+# Repositorio - Instrumentación virtual
 ## Integrantes del equipo
 #### Diego Alejandro Domínguez Jaramillo
 #### Langi Lio Saucedo
